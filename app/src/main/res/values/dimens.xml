@@ -1,0 +1,88 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--======================= APP =======================-->
+    <dimen name="separate_line_height">0.5dp</dimen>
+    <dimen name="separate_block_height">8dp</dimen>
+    <dimen name="line_indicator_height">1dp</dimen>
+    <dimen name="app_header_height">48dp</dimen>
+    <dimen name="foot_container_height">50dp</dimen>
+    <dimen name="header_title_size">17sp</dimen>
+    <dimen name="base_item_height">40dp</dimen>
+    <dimen name="base_item_height_big">55dp</dimen>
+    <!--===================================================-->
+
+    <!--======================= 找驾校 =======================-->
+    <!--===================================================-->
+
+    <!--======================= 考驾照 =======================-->
+    <dimen name="subject_container_height">35dp</dimen>
+    <!-- 考试页面底部图标 -->
+    <dimen name="bottom_icon_size">30dp</dimen>
+    <!-- 考试页面底部文字 -->
+    <dimen name="bottom_text_size">10sp</dimen>
+    <!-- 考试或练习页面图片默认高度 -->
+    <dimen name="exam_image_height">140dp</dimen>
+    <!-- 考试或练习页面图片外边距 -->
+    <dimen name="exam_image_margin">15dp</dimen>
+    <!-- 考试页面  abcd答案 -->
+    <dimen name="answer_image_size">20dp</dimen>
+    <!-- 考试页面  选项文字距离左边距离 -->
+    <dimen name="answer_text_left_space">40dp</dimen>
+    <!-- 答题卡圆圈大小 -->
+    <dimen name="progress_item_size">45dp</dimen>
+    <!-- 答题卡圆圈宽度 -->
+    <dimen name="progress_item_circle_stroke_width">0.5dp</dimen>
+    <!-- 答题卡圆圈宽度（选中） -->
+    <dimen name="progress_item_circle_stroke_width_selected">1dp</dimen>
+    <!-- 答题页面下方答题进度答题卡圆圈大小 -->
+    <dimen name="answer_sheet_item_size">35dp</dimen>
+    <!-- 底部拖动View高度 -->
+    <dimen name="sliding_view_height">420dp</dimen>
+    <dimen name="answer_sheet_header_height">70dp</dimen>
+    <dimen name="answer_sheet_header_content_height">55dp</dimen>
+    <!-- 答题页面下方答题进度答题卡高度 -->
+    <dimen name="answer_sheet_height">350dp</dimen>
+    <!-- 答题页面左右边距 -->
+    <dimen name="exercise_answer_broadside_margin">15dp</dimen>
+    <!-- 试题类型图片（判断题、选择题、多选题） -->
+    <dimen name="exercise_question_type_image_size">20dp</dimen>
+    <!--===================================================-->
+
+    <!-- ================= 侧边栏 ================-->
+    <!-- 侧边栏图标大小 -->
+    <dimen name="main_menu_ic_size">30dp</dimen>
+    <dimen name="main_menu_ic_margin_right">20dp</dimen>
+    <dimen name="main_menu_ic_margin_left">15dp</dimen>
+    <dimen name="main_menu_item_height">40dp</dimen>
+    <dimen name="main_menu_item_text_size">15sp</dimen>
+
+    <!-- ================= 设置题库界面 ================-->
+    <dimen name="setiku_rightbtn_widthheight">24dp</dimen>
+    <dimen name="settiku_setcartype_width">50dp</dimen>
+
+    <!-- ================= 拿证 ========================= -->
+    <!-- ====================== 社区 =====================-->
+    <dimen name="gridview_horizontal_spacing">5dp</dimen>
+    <!--===================================================-->
+
+    <!-- 灯光操作模拟 -->
+    <dimen name="lvImgSize">28dp</dimen>
+    <!-- 灯光模拟大小 -->
+    <dimen name="lvImgMarginTop">5dp</dimen>
+    <dimen name="lvTextSize">12sp</dimen>
+    <!-- 灯光模拟文字大小 -->
+    <dimen name="lvTextMarginTop">5dp</dimen>
+    <dimen name="lvTextMarginBottom">5dp</dimen>
+
+    <!-- ====================== Tip =====================-->
+    <dimen name="tip_corners_radius">5dp</dimen>
+    <dimen name="tip_corners_radius_bottom_padding">8dp</dimen>
+    <!-- ====================== Tip =====================-->
+    <!-- ====================== Ad =====================-->
+    <dimen name="banner_ad_layout_height">50dp</dimen>
+    <!-- ====================== Ad =====================-->
+
+</resources>
